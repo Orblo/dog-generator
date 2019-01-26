@@ -1,0 +1,33 @@
+body {
+	background-color: #efc415;
+	padding: 0px;
+	margin: 0px;
+}
+
+.element {
+	-webkit-box-shadow: 9px 11px 46px -14px rgba(0,0,0,0.75);
+	-moz-box-shadow: 9px 11px 46px -14px rgba(0,0,0,0.75);
+	box-shadow: 9px 11px 46px -14px rgba(0,0,0,0.75);
+
+	border: 0;
+	border-style: none;
+	border-radius: 20px;
+	border-width: 0px;
+
+	width: 300px;
+}
+
+#doge {
+	background-color: #cca714;
+	background-size: cover;
+	height: 300px;
+}
+
+#newDoge {
+	margin-top: 25px;
+	background-color: #cca714;
+	height: 25px;
+
+	color: white;
+	font-family: Arial;
+}
